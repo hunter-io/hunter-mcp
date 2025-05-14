@@ -36,6 +36,7 @@ class HunterAPIClient:
         self._client = httpx.AsyncClient(
             base_url=self.base_url,
             params={"api_key": self.api_key},
+            headers={"X-SOURCE": "hunter-mcp"},
             timeout=30.0
         )
         return self
