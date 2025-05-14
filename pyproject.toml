@@ -1,0 +1,13 @@
+[project]
+name = "hunter-mcp"
+version = "0.1.0"
+description = "An MCP interface for the Hunter API"
+readme = "README.md"
+authors = [
+    { email = "bastien@hunter.io" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.8.1",
+]
