@@ -3,7 +3,7 @@
 This MCP (Model Context Protocol) server provides integration between the Hunter API and any LLM provider supporting the MCP protocol (e.g., Claude for Desktop), allowing you to interact with the Hunter B2B data using natural language.
 
 <a href="https://glama.ai/mcp/servers/@hunter-io/hunter-mcp">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@hunter-io/hunter-mcp/badge" alt="Hunter Server MCP server" />
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@hunter-io/hunter-mcp/badge" alt="Hunter MCP server" />
 </a>
 
 ## ✨ Features
@@ -65,3 +65,7 @@ The current version offers the following tools:
 - Lead Creation
 
 **Note:** All the Hunter API endpoints are not supported, yet. This will be addressed in a future release.
+
+## 🔑 License
+
+This project is licensed under the MIT License; see the [LICENSE.md](https://github.com/hunter-io/hunter-mcp/blob/main/LICENSE.md) file for details.
