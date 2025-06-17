@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hunter-io-hunter-mcp-badge.png)](https://mseep.ai/app/hunter-io-hunter-mcp)
+
 # Hunter MCP Server
 
 This MCP (Model Context Protocol) server provides integration between the Hunter API and any LLM provider supporting the MCP protocol (e.g., Claude for Desktop), allowing you to interact with the Hunter B2B data using natural language.
