@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hunter-io-hunter-mcp-badge.png)](https://mseep.ai/app/hunter-io-hunter-mcp)
+
 # Hunter MCP Server
 
 # **⚠️ Deprecated - Please Switch to Hunter's Remote MCP Server ⚠️**
