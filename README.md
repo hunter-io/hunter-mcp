@@ -1,5 +1,14 @@
 # Hunter MCP Server
 
+# **⚠️ Deprecated - Please Switch to Hunter's Remote MCP Server ⚠️**
+This repository is no longer maintained. All functionality has moved to **Hunter’s Remote MCP Server**, which provides a more convenient setup.
+
+👉 **Start here:** <https://hunter.io/api-documentation#mcp>
+
+---
+
+## 🙋‍♂️ Introduction
+
 This MCP (Model Context Protocol) server provides integration between the Hunter API and any LLM provider supporting the MCP protocol (e.g., Claude for Desktop), allowing you to interact with the Hunter B2B data using natural language.
 
 <a href="https://glama.ai/mcp/servers/@hunter-io/hunter-mcp">
