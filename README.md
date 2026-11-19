@@ -1,7 +1,11 @@
-# Hunter MCP: retired
+# Hunter MCP
 
-This repository is retired and unsupported. Hunter no longer maintains or deploys this local MCP server.
+Hunter now offers a better, easier-to-use hosted MCP server. Connect supported AI clients to Hunter without installing or maintaining a local server.
 
-Use Hunter's [hosted MCP server](https://mcp.hunter.io/mcp). See the [setup guide](https://hunter.io/mcp) for supported clients.
+➡️ **[Set up Hunter MCP](https://hunter.io/mcp)**
 
-The [pre-deprecation archive](https://github.com/hunter-io/hunter-mcp/tree/archive/pre-deprecation) preserves the historical source. The archived code receives no security updates. Do not use it for new integrations.
+Hosted endpoint: [https://mcp.hunter.io/mcp](https://mcp.hunter.io/mcp).
+
+## Historical source
+
+The former local Python server is [preserved on `archive/pre-deprecation`](https://github.com/hunter-io/hunter-mcp/tree/archive/pre-deprecation). It is retired and unsupported. The archived code receives no security updates.
